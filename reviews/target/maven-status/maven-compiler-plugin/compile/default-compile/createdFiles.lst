@@ -1,0 +1,5 @@
+cu/sacavix/springboot/rabbitmq/producer/entity/Person.class
+cu/sacavix/springboot/rabbitmq/producer/configuration/Configuration.class
+cu/sacavix/springboot/rabbitmq/producer/configuration/Constants.class
+cu/sacavix/springboot/rabbitmq/producer/service/PersonProcessorService.class
+cu/sacavix/springboot/rabbitmq/producer/ProducerApplication.class

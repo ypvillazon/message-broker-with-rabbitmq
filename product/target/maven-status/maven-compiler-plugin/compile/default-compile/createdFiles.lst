@@ -1,0 +1,5 @@
+cu/sacavix/springboot/rabbitmq/consumer/service/PersonProcessorService.class
+cu/sacavix/springboot/rabbitmq/consumer/configuration/Configuration.class
+cu/sacavix/springboot/rabbitmq/consumer/ConsumerApplication.class
+cu/sacavix/springboot/rabbitmq/consumer/entity/Person.class
+cu/sacavix/springboot/rabbitmq/consumer/configuration/Constants.class

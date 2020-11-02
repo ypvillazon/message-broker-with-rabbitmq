@@ -1,0 +1,6 @@
+ca/tourism/platform/support/amqp/common/domain/ResourceTourPathEvent.class
+ca/tourism/platform/support/amqp/common/domain/ResourceTrackingEvent.class
+ca/tourism/platform/support/amqp/common/domain/ResourceEvaluationEvent.class
+ca/tourism/platform/support/amqp/common/domain/RenameResourceEvent.class
+ca/tourism/platform/support/amqp/common/domain/UpdateOwnerOnClaimerEvent.class
+ca/tourism/platform/support/amqp/common/domain/ResourceTourismCircuit.class

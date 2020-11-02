@@ -1,0 +1,31 @@
+spring:
+    application:
+        name: product
+    datasource:
+        url: jdbc:mysql://127.0.0.1:3306/message-broker-with-rabbitmq?autoReconnect=true&useSSL=false&charset=utf8mb4_unicode_ci&serverTimezone=UTC
+        username: message-broker-with-rabbitmq
+        password: message-broker-with-rabbitmq
+    jpa:
+        database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+        database: mysql
+        show-sql: false
+        hibernate:
+          ddl-auto: update
+        properties:
+          hibernate:
+            jdbc:
+              time_zone: America/Havana
+
+    rabbitmq:
+      host: localhost
+      port: 5672
+      username: message-broker-with-rabbitmq
+      password: message-broker-with-rabbitmq
+      virtual-host: message-broker-with-rabbitmq
+      listener:
+        simple:
+          concurrency: 1
+          max-concurrency: 1
+
+server:
+    port: 5001

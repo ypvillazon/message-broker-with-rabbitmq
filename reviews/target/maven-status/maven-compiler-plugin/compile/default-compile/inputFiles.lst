@@ -1,0 +1,5 @@
+/media/dayli/Data/TRABAJO/GIT/message-broker-with-rabbitmq/reviews/src/main/java/cu/sacavix/springboot/rabbitmq/producer/ProducerApplication.java
+/media/dayli/Data/TRABAJO/GIT/message-broker-with-rabbitmq/reviews/src/main/java/cu/sacavix/springboot/rabbitmq/producer/configuration/Constants.java
+/media/dayli/Data/TRABAJO/GIT/message-broker-with-rabbitmq/reviews/src/main/java/cu/sacavix/springboot/rabbitmq/producer/configuration/Configuration.java
+/media/dayli/Data/TRABAJO/GIT/message-broker-with-rabbitmq/reviews/src/main/java/cu/sacavix/springboot/rabbitmq/producer/entity/Person.java
+/media/dayli/Data/TRABAJO/GIT/message-broker-with-rabbitmq/reviews/src/main/java/cu/sacavix/springboot/rabbitmq/producer/service/PersonProcessorService.java

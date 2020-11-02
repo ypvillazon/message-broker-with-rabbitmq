@@ -1,0 +1,6 @@
+/media/dayli/Data/TRABAJO/dmo/ctp-ms-backend/ms.support.amqp.common/src/main/java/ca/tourism/platform/support/amqp/common/domain/ResourceTourismCircuit.java
+/media/dayli/Data/TRABAJO/dmo/ctp-ms-backend/ms.support.amqp.common/src/main/java/ca/tourism/platform/support/amqp/common/domain/UpdateOwnerOnClaimerEvent.java
+/media/dayli/Data/TRABAJO/dmo/ctp-ms-backend/ms.support.amqp.common/src/main/java/ca/tourism/platform/support/amqp/common/domain/ResourceTourPathEvent.java
+/media/dayli/Data/TRABAJO/dmo/ctp-ms-backend/ms.support.amqp.common/src/main/java/ca/tourism/platform/support/amqp/common/domain/ResourceEvaluationEvent.java
+/media/dayli/Data/TRABAJO/dmo/ctp-ms-backend/ms.support.amqp.common/src/main/java/ca/tourism/platform/support/amqp/common/domain/RenameResourceEvent.java
+/media/dayli/Data/TRABAJO/dmo/ctp-ms-backend/ms.support.amqp.common/src/main/java/ca/tourism/platform/support/amqp/common/domain/ResourceTrackingEvent.java
